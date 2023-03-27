@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+.header{
+background-color: black;
+display: flex;
+justify-content: space-between;
+padding: 15px;
+align-items: center;
+margin-bottom: 20px;
+}
+.nav-image{
+margin-left: 20px;
+}
+.nav-anchor a{
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    color: white;
+}
+.nav-anchor a:hover{
+    color: orange;
+}
